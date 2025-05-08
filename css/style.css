@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height:70vh;
+    width: 100%;
+    background-image: url("https://picsum.photos/seed/picsum/1920/1080");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-gray {
+    background-color: rgb(199, 198, 198);
+}
+
+footer {
+    margin: 0 !important;
+}
+
+.text-justify {
+    text-align: justify;
+}
